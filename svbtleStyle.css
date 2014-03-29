@@ -69,7 +69,7 @@ width:3%;
 */float:right;
 border-left: .1em solid #eee;
 background-color: white;
-padding-bottom: 70%;
+padding-bottom: 87%;
 }
 .rotate {
 font-family: Candal;
@@ -179,4 +179,9 @@ text-decoration: none;
 }
 #bottom p {
 padding-left: 30%;
+}
+#thought {
+font-family: Arial Narrow;
+font-weight: 100;
+color: #909090;
 }
